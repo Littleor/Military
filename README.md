@@ -1,21 +1,14 @@
-# military
+# 微信推文专辑  
+> 本项目意在将多个微信公众号的内容汇总，实现专辑效果。  
+> 交流群： 826352486 (极简影院的，懒得新建)  
+> 演示地址： [军训专辑](https://military.sixming.com/)
+### 项目实现使用： 
+* Vue框架支持 
+* axios实现前端后端通信 
+### 学习点:  
+* 如何实现导航栏流畅变换 
+* CSS实现MD风格(虽然不大行) 
+## 小结 
+> 一个平凡无奇的项目，并没有太多的新意，最近忙于各类事务，没太多时间学习新的技术做新的项目，只是自己稳固下基础罢。
 
-> A Vue.js project
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
