@@ -36,7 +36,6 @@ export default {
   beforeCreate() {
     this.$axios.post("/apis/api/data_test.php",{
     }).then(data=>{
-      console.log(data.data[0]);
       this.main_data=data.data[0];
       this.datas=data.data[1];
     });

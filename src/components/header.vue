@@ -78,7 +78,9 @@
     width: 100vw;
     height: 68px;
     z-index: 10;
-
+    -moz-box-shadow:0px 2px 5px #333333;
+    -webkit-box-shadow:0px 2px 5px #333333;
+    box-shadow:0px 2px 5px #333333;
   }
 
   .fix img{

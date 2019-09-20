@@ -2,7 +2,7 @@
     <div class="footer">
       <div class="text">
       <p>重庆邮电大学武装部军训助理宣传组</p>
-      <p>Copyright © Littleor ALL Right Reserverd </p>
+        <p>Copyright © <a href="https://blog.sixming.com/">Littleor</a> ALL Right Reserverd </p>
       </div>
     </div>
 </template>
@@ -15,6 +15,7 @@
 
 <style scoped>
 .footer{
+  margin-top: 30px;
   position: relative;
   background-color: rgba(9,114,74,255);
   width: 100vw;
@@ -28,5 +29,8 @@
   p{
     width: 100vw;
     color: white;
+  }
+  a{
+    text-decoration: none;
   }
 </style>
